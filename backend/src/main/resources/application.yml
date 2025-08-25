@@ -1,3 +1,7 @@
+# Service API Key
+api:
+  serviceKey: ${API_SERVICE_KEY}
+
 spring:
   application:
     name: trip-plan
